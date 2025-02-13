@@ -7,11 +7,11 @@
 I am a Software Architect specializing in AI/ML-powered cloud-native applications that enhance user experiences and deliver data-driven insights.
 
 ### Key Expertise:
-##### 1. Machine Learning & NLP: Custom ML models, AI-driven recommendation systems
-##### 2. Backend Development: RESTful APIs with Python (FastAPI, Django), Node.js, .NET
-##### 3. Databases: SQL/NoSQL, Elasticsearch for scalable data solutions
-##### 4. Infrastructure & DevOps: Kubernetes, Docker, Terraform, CI/CD (GitHub, Azure DevOps)
-##### 5. Observability & Real-Time Systems: Redis, Apache Kafka, Elasticsearch
+- **Machine Learning & NLP:** Custom ML models, AI-driven recommendation systems
+- **Backend Development:** RESTful APIs with Python (FastAPI, Django), Node.js, .NET
+- **Databases:** SQL/NoSQL, Elasticsearch for scalable data solutions
+- **Infrastructure & DevOps:** Kubernetes, Docker, Terraform, CI/CD (GitHub, Azure DevOps)
+- **Observability & Real-Time Systems:** Redis, Apache Kafka, Elasticsearch
 
 #### I am Passionate about DevOps automation, observability, and cloud native applications.
 
