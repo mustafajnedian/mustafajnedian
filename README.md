@@ -13,7 +13,7 @@ I am a Software Architect specializing in AI/ML-powered cloud-native application
 ##### 4. Infrastructure & DevOps: Kubernetes, Docker, Terraform, CI/CD (GitHub, Azure DevOps)
 ##### 5. Observability & Real-Time Systems: Redis, Apache Kafka, Elasticsearch
 
-### I am Passionate about DevOps automation, observability, and cloud scalability.
+#### I am Passionate about DevOps automation, observability, and cloud native applications.
 
 ### Here is a breif decsription of Private Repos on my GitHub Profile  
 
