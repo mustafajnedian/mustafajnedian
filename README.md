@@ -9,7 +9,7 @@ I am a Software Architect specializing in AI/ML-powered cloud-native application
 ### Key Expertise:
 - **Machine Learning & NLP:** Custom ML models, AI-driven recommendation systems
 - **Backend Development:** RESTful APIs with Python (FastAPI, Django), Node.js, .NET
-- **Databases:** SQL/NoSQL, Elasticsearch for scalable data solutions
+- **Databases:** SQL/NoSQL, Redis Cache, Elasticsearch for scalable data solutions
 - **Infrastructure & DevOps:** Kubernetes, Docker, Terraform, CI/CD (GitHub, Azure DevOps)
 - **Observability & Real-Time Systems:** Redis, Apache Kafka, Elasticsearch
 
@@ -26,8 +26,8 @@ A **smart recipe recommendation system** leveraging **AI and NLP** to personaliz
 ##  Tech Stack  
 - **Machine Learning**: Word2Vec, TF-IDF, Count Vectorization  
 - **Search & NLP**: Semantic Search for intelligent query matching  
-- **Backend**: Python, FastAPI, MongoDB  
-- **Infrastructure**: Docker, Kubernetes  
+- **Backend**: Python, FastAPI, MongoDB, Redis (for Caching)
+- **Infrastructure**: Docker, Kubernetes, CI/CD  
 
 ##  Features  
 -  **AI-driven recipe recommendations** based on user preferences  
