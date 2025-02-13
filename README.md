@@ -69,20 +69,18 @@ Last year, I built a protptype **FinTech mobile application** using the **MERN S
 
 # **AI-Powered Log Analysis System** *(Private)*
 A **real-time log monitoring solution** designed for **anomaly detection** and **security insights**.  
-- Under development
+####  Tech Stack
+- *Under development*
   
 ####  Features  
--  **Real-time log anomaly detection** using ML techniques  
--  **Enhances security** with intelligent threat detection  
--  **Improves system performance & observability**  
+- *Under development*
 
 # **Cloud-Native Observability Dashboard** *(Private)*
 A **real-time monitoring and alerting dashboard** for full-stack system observability.  
-- Under development
+####  Tech Stack
+- *Under development*
   
 ####  Features  
--  **Real-time system health monitoring**  
--  **Instant alerting & notifications** for system events  
--  **Comprehensive observability metrics** for performance tuning  
+- *Under development*
 
 Feel free to **connect with me!** 
