@@ -56,16 +56,17 @@ Last year, I built a protptype **FinTech mobile application** using the **MERN S
 ## Tech Stack  
 - **Frontend**: React Native  
 - **Backend**: Node.js, Express.js  
-- **Database**: MongoDB  
+- **Database**: MongoDB, Redis  
 - **State Management**: Redux  
-- **Authentication**: JWT & OAuth  
+- **Authentication**: JWT
 - **Infrastructure**: Docker, Kubernetes  
 
 ## Features  
--  **Secure mobile banking experience** with a modern UI  
--  **Real-time transaction processing** with WebSockets  
--  **Multi-factor authentication** for enhanced security  
--  **Personalized financial insights & analytics**  
+-  **Secure mobile banking experience** with a prototype UI in React Native
+-  **Real-time transaction processing** with Session Management
+-  **Bills Payments**  with transaction processing
+-  **Performance Optimizaion** for user experience with Redis Cache  
+
 
 # **AI-Powered Log Analysis System** *(Private)*
 A **real-time log monitoring solution** designed for **anomaly detection** and **security insights**.  
