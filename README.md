@@ -23,13 +23,13 @@ I am a Software Architect specializing in AI/ML-powered cloud-native application
 # AI/ML-Powered Recipe Recommendation App *(Private)*  
 A **smart recipe recommendation system** leveraging **AI and NLP** to personalize user experiences.  
 
-####  Tech Stack  
+##  Tech Stack  
 - **Machine Learning**: Word2Vec, TF-IDF, Count Vectorization  
 - **Search & NLP**: Semantic Search for intelligent query matching  
 - **Backend**: Python, FastAPI, MongoDB  
 - **Infrastructure**: Docker, Kubernetes  
 
-####  Features  
+##  Features  
 -  **AI-driven recipe recommendations** based on user preferences  
 -  **Advanced NLP-based search** for finding similar recipes  
 -  **Data-driven insights** for user engagement and personalization  
@@ -53,7 +53,7 @@ A **serverless, cloud-native** recipe-sharing application built on **AWS**.
 # **FinTech Mobile App** *(Private)*  
 Last year, I built a protptype **FinTech mobile application** using the **MERN Stack** to provide seamless financial transactions and user-friendly digital banking solutions.  
 
-#### Tech Stack  
+## Tech Stack  
 - **Frontend**: React Native  
 - **Backend**: Node.js, Express.js  
 - **Database**: MongoDB  
@@ -61,7 +61,7 @@ Last year, I built a protptype **FinTech mobile application** using the **MERN S
 - **Authentication**: JWT & OAuth  
 - **Infrastructure**: Docker, Kubernetes  
 
-#### Features  
+## Features  
 -  **Secure mobile banking experience** with a modern UI  
 -  **Real-time transaction processing** with WebSockets  
 -  **Multi-factor authentication** for enhanced security  
@@ -69,18 +69,18 @@ Last year, I built a protptype **FinTech mobile application** using the **MERN S
 
 # **AI-Powered Log Analysis System** *(Private)*
 A **real-time log monitoring solution** designed for **anomaly detection** and **security insights**.  
-####  Tech Stack
+##  Tech Stack
 - *Under development*
   
-####  Features  
+##  Features  
 - *Under development*
 
 # **Cloud-Native Observability Dashboard** *(Private)*
 A **real-time monitoring and alerting dashboard** for full-stack system observability.  
-####  Tech Stack
+##  Tech Stack
 - *Under development*
   
-####  Features  
+##  Features  
 - *Under development*
 
 Feel free to **connect with me!** 
