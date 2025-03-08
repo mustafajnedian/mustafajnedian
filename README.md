@@ -22,7 +22,7 @@ I am a Software Architect specializing in AI/ML-powered cloud-native application
 
 ##  Private Portfolio Projects  
 
-# **AI/ML-Powered Observability Data Pipeline for Anomaly Dtection** *(Private)*
+# **AI/ML-Powered Observability Data Pipeline for Anomaly Detection** *(Private Repo)*
 A **Real-time log monitoring solution** for instant alerts, combined with the Power of AI/ML to deep dive into patterns, trends and root cause analysis, for **anomaly detection** and **security insights**.  
 
 ##  Tech Stack
@@ -48,7 +48,7 @@ A **real-time monitoring and alerting dashboard** for full-stack system observab
 ##  Features  
 - *Under development*
 
-# ChefAI - an AI/ML-Powered Recipe Recommendation App *(Private)*  
+# ChefAI - an AI/ML-Powered Recipe Recommendation App *(Private Repo)*  
 A **smart recipe recommendation system** leveraging **AI and NLP** to personalize user experiences.  
 
 ##  Tech Stack  
