@@ -42,7 +42,7 @@ A **real-time monitoring and alerting dashboard** for full-stack system observab
 ##  Features  
 - *Under development*
 
-# AI/ML-Powered Recipe Recommendation App *(Private)*  
+# ChefAI - an AI/ML-Powered Recipe Recommendation App *(Private)*  
 A **smart recipe recommendation system** leveraging **AI and NLP** to personalize user experiences.  
 
 ##  Tech Stack  
