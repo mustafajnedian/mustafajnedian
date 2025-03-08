@@ -32,7 +32,13 @@ A **Real-time log monitoring solution** for instant alerts, combined with the Po
 - Kubernetes
   
 ##  Features  
-- *Under development*
+- Observability Data Pipeline for Site Reliability Engineers (SREs)
+- Ingests Logs & IoT Sensor Telemetry
+- Provides real-time streaming & alerts
+- Utilizes Machine Learning (Deep learning) for Anomaly detection, patterns and root causes.
+- User Interface with RAG/NLP using Semantic / Vector Search
+- Scalable architecture on Kubernetes
+- Enterprise Ready
 
 # **Cloud-Native Observability Dashboard** *(Private)*
 A **real-time monitoring and alerting dashboard** for full-stack system observability.  
