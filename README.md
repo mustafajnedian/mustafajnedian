@@ -33,7 +33,7 @@ A **Real-time log monitoring solution** for instant alerts, combined with the Po
   
 ##  Features  
 - Observability Data Pipeline for Site Reliability Engineers (SREs)
-- Ingests Logs & IoT Sensor Telemetry
+- Ingests Logs & IoT Sensors Telemetry at scale
 - Provides real-time streaming & alerts
 - Utilizes Machine Learning (Deep learning) for Anomaly detection, patterns and root causes.
 - User Interface with RAG/NLP using Semantic / Vector Search
