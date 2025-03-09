@@ -26,7 +26,8 @@ I am a Software Architect specializing in AI/ML-powered cloud-native application
 - Passionate about building AI-powered, cloud-native financial platforms that are scalable, secure, and data-driven.
 - I specialize in designing and implementing scalable, distributed systems with a strong focus on AI-driven analytics, real-time processing, and financial technology.
 - My recent work includes re-architecting a Fintech platform using a microservices-based architecture powered by Apache Kafka, Redis, MySQL, and MongoDB, deployed on Kubernetes for high availability and auto-scaling.
-
+- The system was initially developed in 2023/2024 using a monolithic approach but has now been rearchitected into a fully distributed microservices-based architecture, with AI/ML and Kubernestes based scalability.
+  
 ## Key Areas of Expertise:
 - AI/ML-Driven Analytics – Built a Fraud Detection System leveraging machine learning models for anomaly detection in financial transactions.
 - Event-Driven Microservices – Designed a Kafka-based architecture for asynchronous processing, ensuring system resilience.
