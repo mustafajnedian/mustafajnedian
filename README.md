@@ -20,7 +20,24 @@ I am a Software Architect specializing in AI/ML-powered cloud-native application
 
 ### Brief description of Private Repos on my GitHub Repository.  
 
-##  Private Portfolio Projects  
+##  Private Portfolio Projects
+
+# AI/ML & Distributed Microservices Architecture
+- Passionate about building AI-powered, cloud-native financial platforms that are scalable, secure, and data-driven.
+- I specialize in designing and implementing scalable, distributed systems with a strong focus on AI-driven analytics, real-time processing, and financial technology.
+- My recent work includes re-architecting a Fintech platform using a microservices-based architecture powered by Apache Kafka, Redis, MySQL, and MongoDB, deployed on Kubernetes for high availability and auto-scaling.
+
+## Key Areas of Expertise:
+- AI/ML-Driven Analytics – Built a Fraud Detection System leveraging machine learning models for anomaly detection in financial transactions.
+- Event-Driven Microservices – Designed a Kafka-based architecture for asynchronous processing, ensuring system resilience.
+- Transactional Integrity (ACID) – Implemented SAGA patterns, 2PC, and Redis-based idempotency for consistent financial operations.
+- Real-Time Data Processing – Engineered streaming analytics pipelines using Kafka Streams & Redis caching for ultra-low latency insights.
+- Scalable Cloud Deployment – Architected a Kubernetes-native infrastructure, leveraging Istio, Prometheus, and Grafana for observability and auto-scaling.
+
+## Tech Stack: 
+- Python, FastAPI, Java (Spring Boot), Kafka, Redis, MongoDB, MySQL, Kubernetes, TensorFlow, PyTorch
+
+
 
 # **AI/ML-Powered Observability Data Pipeline for Anomaly Detection** *(Private Repo)*
 A **Real-time log monitoring solution** for instant alerts, combined with the Power of AI/ML to deep dive into patterns, trends and root cause analysis, for **anomaly detection** and **security insights**.  
@@ -78,7 +95,7 @@ A **serverless, cloud-native** recipe-sharing application built on **AWS**.
 -  **Secure media hosting** on S3  
 -  **Fully managed serverless deployment** with AWS services  
 
-# **FinTech Mobile App** *(Private)*  
+# **FinTech Mobile App (Original)** *(Private)*  
 Last year, I built a protptype **FinTech mobile application** using the **MERN Stack** to provide seamless financial transactions and user-friendly digital banking solutions.  
 
 ## Tech Stack  
